@@ -27,7 +27,7 @@ most common and prevalent tasks in Machine Learning.
 
 1.  Create and setup a new project in Azure DevOps
 
-    1.  Import quickstart code from "EnterRepoURLHere"
+    1.  Import quickstart code from "https://github.com/microsoft-us-ocp-ai/MLOps"
 
     2.  Create new service connections in Project Settings for your Azure ML service and Azure Subscription using service
         principal
