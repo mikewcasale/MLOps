@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-All of the prerequisites from the [README file](../README.md).
+All of the prerequisites from the [README file](README.md).
 
 ## Introduction
 
