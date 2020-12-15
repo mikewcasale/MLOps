@@ -6,7 +6,7 @@ All of the prerequisites from the [README file](../README.md).
 
 ## Introduction
 
-The objective of challenge is to forecast the daily transactions using time
+The objective of this challenge is to forecast the daily transactions using time
 series
 [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 modeling. It includes processing the transactions data from AdventureWorks
