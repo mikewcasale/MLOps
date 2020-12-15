@@ -1,7 +1,7 @@
 # Conda environment specification. The dependencies defined in this file will
-- task: CondaEnvironment@0
+- task: Bash@3
   inputs:
-    environmentName: 'py'
+    filePath: 'Data_and_Code/scripts/scoring/conda_dependencies.yml'
 
 # be automatically provisioned for managed runs. These include runs against
 
