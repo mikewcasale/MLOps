@@ -1,4 +1,7 @@
 # Conda environment specification. The dependencies defined in this file will
+- task: CondaEnvironment@0
+  inputs:
+    environmentName: 'py'
 
 # be automatically provisioned for managed runs. These include runs against
 
